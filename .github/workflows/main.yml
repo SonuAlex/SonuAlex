@@ -68,3 +68,8 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: instructable01
